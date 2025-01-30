@@ -1,7 +1,7 @@
-- 👋 @SMYNTICS-Corp
+- 👋 @SMYNTICS-Hub
 - 👀 fascinated by creating innovative projects through better ideas.
 - 🌱 currently learning NodeJs, MongoDB.
-- 💞️ intrested in collaborating on projects
+- 💞️ interested in collaborating on projects
 - 📫 smynticscorp@gmail.com
 
 <!---
